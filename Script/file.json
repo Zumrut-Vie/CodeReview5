@@ -1,0 +1,46 @@
+var movies= `[
+    {
+        "name": "1900", 
+        "desc": "1976 epic historical drama film directed by Bernardo Bertolucci and featuring Robert De Niro, Gérard Depardieu.",
+        "img": "Images/1900.jpg",
+        "likes": 20
+    }, {
+        "name": "Elizabeth",
+        "desc": "2007 biographical drama film, directed by Shekhar Kapur and featuring Cate Blanchett in the title role.",
+        "img" : "Images/Elizabeth.jpg",
+        "likes": 23
+    }, {
+        "name": "Godfather",
+        "desc": "1972 American crime film directed by Francis Ford Coppola and featuring Marlon Brando, Al Pacino.",
+        "img" : "Images/Godfather.jpg",
+        "likes": 26
+    }, {
+        "name": "Joker",
+        "desc": "2019 thriller film directed and produced by Todd Phillips and featuring Joaquin Phoenix as the Joker.",
+        "img" : "Images/Joker.jpg",
+        "likes": 29
+    }, {
+        "name": "Inception",
+        "desc": "Inception is a 2010 science fiction action film written and directed by Christopher Nolan and featuring Leonardo DiCaprio ",
+        "img" : "Images/Inception.jpg",
+        "likes": 32
+    }, {
+        "name": "Wall-e",
+        "desc": "2008 American computer-animated science fiction, romance film directed and co-written by Andrew Stanton.",
+        "img" : "Images/wall-e.jpg",
+        "likes": 32
+    }    
+]`
+
+
+
+
+
+
+
+
+
+
+
+
+

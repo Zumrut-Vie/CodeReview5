@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    font-family: helvetica;
+}
+
+/*Header and Footer*/
+
+.movieFactory{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2em;
+    padding-top: 0.7em;
+}
+
+a{
+    padding-bottom: 2em;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    padding-left: 3em;
+}
+
+header{
+    background-color: pink;
+    line-height:4.5em;}
+
+footer{
+    background-color: pink;
+    line-height: 5em;
+}
+
+/*Main div (from JSON)*/
+
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #FFDCE2;
+}
+
+/*Movie div*/
+
+.favmovies{
+     justify-content: stretch;
+     padding-top: 3em;
+    
+}
+.movie-img{
+    width:10em;
+   
+}
+
+.movie-desc{
+    width:12em;
+    border-style: dashed;
+   
+}
+
+.movie-name{
+    width:4em;
+    
+}
+
+.btn{
+width: 5em;
+background-color: #eee;
+border-radius: 20px;
+font-weight: bold;
+position: relative;
+}
